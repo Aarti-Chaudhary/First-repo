@@ -7,3 +7,7 @@ what would u like to drink
 
 move statement 50 to 55 and 60 to 65 at stash.at the end print all tha statment on the consol 
 through the stashing.
+question=
+create file demo,demo1.demo add some 10 statement and in demo one add 5 statements.from demo file move 4 
+statement to stash and demo1 move 2 statements ,then in demo add 3 more statemnts move to stash ,last 
+bring back all the statem t to the working directory .print all the statments from demo and demo1 on consol.
