@@ -7,7 +7,31 @@ what would u like to drink
 
 move statement 50 to 55 and 60 to 65 at stash.at the end print all tha statment on the consol 
 through the stashing.
-question=
+question =
 create file demo,demo1.demo add some 10 statement and in demo one add 5 statements.from demo file move 4 
 statement to stash and demo1 move 2 statements ,then in demo add 3 more statemnts move to stash ,last 
 bring back all the statem t to the working directory .print all the statments from demo and demo1 on consol.
+question =
+create 2 files named as test1 ,test2.test1 show stashing and test2 add some statements and 
+then committed .move test1 to ignore file.
+question =
+create 2 files index1,index2echo "=== demo1.demo ==="
+cat demo1.demo and ignore only html files.
+question =
+create demo10,demo20,demo30.and 
+* tracked file hi stash hoti h or ignore file untracked hoti h.
+
+-------branching strategy->
+master,feature,hotfix,bug fix branch.
+ question =
+ create a branch named as india1,india2.in india1 create a file named as devops write some mess .in india2 create a file named as cloud ,add some mess .merge both the branch to master.
+
+--------link
+https://play.google.com/store/apps/details?id=com.flcfra.imhxdz
+question---
+create traked file inside local repo and push into remote repo then create a one more file name  as ws and append a message welcome to AWS and them pull the file to local repo and display the file in the terminal.
+ 
+ ------------topic reset
+ 1 hard reset -undo krta h commit ko or file ko staging area mai bhi krta h
+ 2 soft reset-undo krta h commit ko
+ 3 mixed reset
