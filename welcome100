@@ -35,3 +35,6 @@ create traked file inside local repo and push into remote repo then create a one
  1 hard reset -undo krta h commit ko or file ko staging area mai bhi krta h
  2 soft reset-undo krta h commit ko
  3 mixed reset
+ **** tag
+ ****git  checkout master ---- chagnge branch
+ ****
